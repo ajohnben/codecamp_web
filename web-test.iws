@@ -4,7 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e8afc603-01e5-4525-8241-b0c3c4349160" name="Changes" comment="" />
+    <list default="true" id="e8afc603-01e5-4525-8241-b0c3c4349160" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/test/java/HomePage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/ExampleUITest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/ExampleUITest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/ExampleUITest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/ExampleUITest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web-test.iws" beforeDir="false" afterPath="$PROJECT_DIR$/web-test.iws" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -248,7 +253,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
   </component>
-  <component name="RunManager" selected="JUnit.ExampleUITest.WebUITest">
+  <component name="RunManager" selected="JUnit.ExampleUITest.AddStringToForename">
     <configuration selected="false" default="true" type="Applet" factoryName="Applet">
       <module name="" />
       <option name="MAIN_CLASS_NAME" />
@@ -265,11 +270,57 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ExampleUITest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="ExampleUITest.AddStringToForename" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="web-test" />
       <option name="PACKAGE_NAME" value="" />
       <option name="MAIN_CLASS_NAME" value="ExampleUITest" />
-      <option name="TEST_OBJECT" value="class" />
+      <option name="METHOD_NAME" value="AddStringToForename" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="wholeProject" />
+      </option>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ExampleUITest.CheckFormValidationStatusTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="web-test" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="ExampleUITest" />
+      <option name="METHOD_NAME" value="CheckFormValidationStatusTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="wholeProject" />
+      </option>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ExampleUITest.CheckIfLoginButtonAlertWorksTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="web-test" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="ExampleUITest" />
+      <option name="METHOD_NAME" value="CheckIfLoginButtonAlertWorksTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="wholeProject" />
+      </option>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ExampleUITest.CheckMainMenuLinks" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="web-test" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="ExampleUITest" />
+      <option name="METHOD_NAME" value="CheckMainMenuLinks" />
+      <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <option name="TEST_SEARCH_SCOPE">
@@ -307,8 +358,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.ExampleUITest.AddStringToForename" />
+        <item itemvalue="JUnit.ExampleUITest.CheckFormValidationStatusTest" />
+        <item itemvalue="JUnit.ExampleUITest.CheckIfLoginButtonAlertWorksTest" />
+        <item itemvalue="JUnit.ExampleUITest.CheckMainMenuLinks" />
         <item itemvalue="JUnit.ExampleUITest.WebUITest" />
-        <item itemvalue="JUnit.ExampleUITest" />
       </list>
     </recent_temporary>
   </component>
@@ -386,6 +440,17 @@
       <window_info id="EJB" active="false" anchor="bottom" auto_hide="false" internal_type="docked" type="docked" visible="false" weight="0.25" order="3" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="docked" type="docked" visible="false" weight="0.25" order="5" />
     </layout>
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VssConfiguration">
     <CheckoutOptions>
